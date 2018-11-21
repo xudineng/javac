@@ -1,6 +1,6 @@
 package springboot.demo;
 
-/**
+/*
  * TODO:未添加类描述
  *
  * @author： xudn
@@ -9,5 +9,7 @@ package springboot.demo;
  * @modified By:
  */
 public class Test {
-
+    public static void main(String[] args) {
+        
+    }
 }
